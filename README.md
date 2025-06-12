@@ -116,7 +116,7 @@ instance. That's the future we're building towards.
 
 ## Roadmap
 
--   **July 2025:** Live website and Fediverse protocol draft.
+-   **July 2025:** Live website and Fediverse [protocol draft](https://github.com/Netmatch-me/protocol).
 -   **September 2025:** PWA and web app beta.
 -   **December 2025:** Native iOS and Android apps.
 -   **February 2026:** Open-source launch and federation support.
